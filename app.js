@@ -462,7 +462,7 @@ const actionContent = {
   profile: {
     eyebrow: "Account",
     title: "My Profile",
-    body: "Alex Morgan · Computer Science major · Year 2. Update your study goals, notification prefs, or avatar anytime.",
+    body: "Shubham Yadav · Computer Science major · Year 2. Update your study goals, notification prefs, or avatar anytime.",
     actions: [
       { label: "Edit profile", primary: true, toast: "Profile editor opened." },
       { label: "Close", primary: false, close: true },
